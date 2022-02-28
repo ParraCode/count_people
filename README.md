@@ -24,7 +24,9 @@ We’ll count the number of people who are heading “in” or “out” of a de
 
 This project is based on a dataset of [Crowd Human](https://www.crowdhuman.org/) that contains information about bounding box and photos.
 
-There are two directories: `val` that contains 4.370 elements and `train` contains 15.000 elements. Finally,there are two files in which you can find the information of the bounding box and faces of each element.
+There are two directories: `val` that contains 4.370 elements and `train` contains 15.000 elements.
+
+Finally,there are two files in which you can find the information of the bounding box and faces of each element.
 
 ## Data Analysis with Jupyter Lab
 
